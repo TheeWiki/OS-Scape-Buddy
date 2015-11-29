@@ -3,3 +3,7 @@ This project of mine will be developed by myself. My goal for this project is to
 
 # Application Accessibility
 This application is written in Visual Basic, which can be run on Windows OS. The application is single instanced which means users will not be able to open multiple application forms of OS-Scape Buddy.
+
+# Demo
+
+https://github.com/TheeWiki/OS-Scape-Buddy/blob/master/OS-Scape%20Buddy/bin/Debug/OS-Scape%20Buddy.exe?raw=true
