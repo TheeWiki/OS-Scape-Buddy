@@ -117,54 +117,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="Label1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAAMgAAAAtCAYAAADr0SSvAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAZdEVYdFNvZnR3YXJlAEFkb2JlIEltYWdlUmVhZHlxyWU8AAADJmlUWHRYTUw6Y29tLmFkb2Jl
-        LnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQi
-        Pz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENv
-        cmUgNS42LWMwMTQgNzkuMTU2Nzk3LCAyMDE0LzA4LzIwLTA5OjUzOjAyICAgICAgICAiPiA8cmRmOlJE
-        RiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8
-        cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20v
-        eGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxu
-        czpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1w
-        OkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxNCAoV2luZG93cykiIHhtcE1NOkluc3Rh
-        bmNlSUQ9InhtcC5paWQ6OUIxODUyNzM4QjJDMTFFNUJBRjk5QzRDQjVBRkYyM0UiIHhtcE1NOkRvY3Vt
-        ZW50SUQ9InhtcC5kaWQ6OUIxODUyNzQ4QjJDMTFFNUJBRjk5QzRDQjVBRkYyM0UiPiA8eG1wTU06RGVy
-        aXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo5QjE4NTI3MThCMkMxMUU1QkFGOTlDNENC
-        NUFGRjIzRSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo5QjE4NTI3MjhCMkMxMUU1QkFGOTlDNENC
-        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
-        DVWmD/SHAAAAAElFTkSuQmCC
-</value>
+  <data name="Label1.Text" xml:space="preserve">
+    <value>This project of mine will be developed by myself (Thee RSWiki). My goal for this project is to have a ultra light weight single application that can give the best experiences ingame, etc.. I'm always open to suggestions, changes, reports towards this project. I'd ask users to not claim their own copyrights for this application.</value>
   </data>
-  <metadata name="ContextMenuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAABMLAAATCwAAAAAAAAAA

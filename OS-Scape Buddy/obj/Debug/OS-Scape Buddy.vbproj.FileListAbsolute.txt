@@ -8,3 +8,4 @@ C:\Users\Dennis\Documents\Visual Studio 2012\Projects\OS-Scape Buddy\OS-Scape Bu
 C:\Users\Dennis\Documents\Visual Studio 2012\Projects\OS-Scape Buddy\OS-Scape Buddy\obj\Debug\OS-Scape Buddy.exe
 C:\Users\Dennis\Documents\Visual Studio 2012\Projects\OS-Scape Buddy\OS-Scape Buddy\obj\Debug\OS-Scape Buddy.xml
 C:\Users\Dennis\Documents\Visual Studio 2012\Projects\OS-Scape Buddy\OS-Scape Buddy\obj\Debug\OS-Scape Buddy.pdb
+C:\Users\Dennis\Documents\Visual Studio 2012\Projects\OS-Scape Buddy\OS-Scape Buddy\obj\Debug\OS_Scape_Buddy.Form2.resources
